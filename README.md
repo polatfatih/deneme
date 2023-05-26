@@ -1,0 +1,2 @@
+# deneme
+repo egitim
